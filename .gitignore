@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AspNetFramworkVBWebForm/bin
+/.vs/AspNetFramworkVBWebForm
+/AspNetFramworkVBWebForm/.vs
+/AspNetFramworkVBWebForm/obj
+/AspNetFramworkVBWebForm/publish
+/packages
+/WcfSampleService/bin
+/WcfSampleService/obj
